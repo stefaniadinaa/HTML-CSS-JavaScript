@@ -1,0 +1,18 @@
+<h1> Original: </h1>
+<canvas id="fgcan" width="300" height="150"></canvas>
+<h1> Edit: </h1>
+<canvas id="bgcan" width="300" height="150"> </canvas>
+<script src="https://www.dukelearntoprogram.com/course1/common/js/image/SimpleImage.js" > 
+</script>
+
+<p> 
+  Foreground:
+  <input type="file" id="fgfile" multiple="false" accept="image/*" onchange="loadForegroundImage()" >
+  
+  Background:
+  <input type="file" id="bgfile" multiple="false" accept="image/*" onchange="loadBackgroundImage()" >
+   
+  <input type="button" id="GreenScreen" value="Create Composite" onclick="greenScreen()"> 
+  
+  <input type="button" id="clear" value="Clear Canvases" onclick="clearCanvas()"> 
+</p>

@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+  <meta charset="UTF-8">
+  <title>CodePen - Green Screen Combine</title>
+  <link rel="stylesheet" href="./style.css">
+
+</head>
+<body>
+<!-- partial:index.partial.html -->
+<h1> Original: </h1>
+<canvas id="fgcan" width="300" height="150"></canvas>
+<h1> Edit: </h1>
+<canvas id="bgcan" width="300" height="150"> </canvas>
+<script src="https://www.dukelearntoprogram.com/course1/common/js/image/SimpleImage.js" > 
+</script>
+
+<p> 
+  Foreground:
+  <input type="file" id="fgfile" multiple="false" accept="image/*" onchange="loadForegroundImage()" >
+  
+  Background:
+  <input type="file" id="bgfile" multiple="false" accept="image/*" onchange="loadBackgroundImage()" >
+   
+  <input type="button" id="GreenScreen" value="Create Composite" onclick="greenScreen()"> 
+  
+  <input type="button" id="clear" value="Clear Canvases" onclick="clearCanvas()"> 
+</p>
+<!-- partial -->
+  <script  src="./script.js"></script>
+
+</body>
+</html>
