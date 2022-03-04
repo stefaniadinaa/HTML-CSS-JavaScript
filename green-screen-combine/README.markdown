@@ -1,12 +1,8 @@
 # Green Screen Combine
-A simple and easy to use application to merge two photos.
+# Description 
+A simple and easy to use application to merge two photos.The first photo in the Foreground must be cropped. The second photo can be anything.The end result is a combination of the first image over the second in the Background.
 
-
-The first photo in the Foreground must be cropped. The second photo can be anything.
-
-
-The end result is a combination of the first image over the second in the Background.
-
+#Concepts
 I use the concepts like:
 
 - HTML Links - Hyperlinks
@@ -22,32 +18,34 @@ I use the concepts like:
 - HTML Tables
 
 <br/>
+<br/>
 
-= CSS Background Color
+- CSS Background Color
 
-= CSS Padding
+- CSS Padding
 
-= CSS Height and Width
+- CSS Height and Width
 
-= CSS Fonts
+- CSS Fonts
 
-= CSS Tables
+- CSS Tables
 
-/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+<br/>
+<br/>
 
-= JavaScript Functions
+- JavaScript Functions
 
-= JavaScript Loops
+- JavaScript Loops
 
-= JavaScript Iterables
+- JavaScript Iterables
 
-= Conditional Statements
+- Conditional Statements
 
-= When JavaScript is used in HTML pages, JavaScript can "react" on these events.
+- When JavaScript is used in HTML pages, JavaScript can "react" on these events.
 
-= HTML allows event handler attributes, with JavaScript code, to be added to HTML elements.
+- HTML allows event handler attributes, with JavaScript code, to be added to HTML elements.
 
-/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+<br/>
 
 
 A Pen created on CodePen.io. Original URL: [https://codepen.io/stefaniadina/pen/ExmGqoe](https://codepen.io/stefaniadina/pen/ExmGqoe).
