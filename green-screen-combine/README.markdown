@@ -9,19 +9,20 @@ The end result is a combination of the first image over the second in the Backgr
 
 I use the concepts like:
 
-= HTML Links - Hyperlinks
+- HTML Links - Hyperlinks
 
-= Nested HTML Elements
+- Nested HTML Elements
 
-= The href Attribute
+- The href Attribute
 
-= The src Attribute
+- The src Attribute
 
-= HTML Text Formatting
+- HTML Text Formatting
 
-= HTML Tables
+- HTML Tables
 
-/////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+####################################################
 
 = CSS Background Color
 
