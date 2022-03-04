@@ -1,5 +1,7 @@
 ** Edit picture **
-Upload a picture and apply filters on it.\
+Upload a picture and apply filters on it.
+
+<br/>
 
 - Grayscale
 
@@ -12,9 +14,9 @@ Upload a picture and apply filters on it.\
 - Blur Filter
 
 You can Reset Image if you have another option.
-Also, you can draw on the photo.\
-\
-\
+Also, you can draw on the photo.
+
+<br/>
 
    # Concepts
 
@@ -32,9 +34,7 @@ I use the concepts like:
 
 - HTML Tables
 
-
 <br/>
-
 
 - CSS Background Color
 
@@ -44,9 +44,9 @@ I use the concepts like:
 
 - CSS Fonts
 
-- CSS Tables\
-\
-\
+- CSS Tables
+
+<br/>
 
 - JavaScript Functions
 
@@ -59,8 +59,9 @@ I use the concepts like:
 - When JavaScript is used in HTML pages, JavaScript can "react" on these events.
 
 - HTML allows event handler attributes, with JavaScript code, to be added to HTML elements.\
-\
-\
+
+<br/>
+
 A Pen created on CodePen.io. Original URL: [https://codepen.io/stefaniadina/pen/poPGEZW](https://codepen.io/stefaniadina/pen/poPGEZW).
 
 
